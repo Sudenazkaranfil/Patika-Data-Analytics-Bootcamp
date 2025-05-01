@@ -5,7 +5,7 @@
 
 ---
 
-### 2️⃣ Sonraki elemanlar BST kurallarına göre yerleştirilir:
+### Sonraki elemanlar BST kurallarına göre yerleştirilir:
 - **5 < 7** → `5`, 7'nin **soluna**
 - **1 < 7**, **1 < 5** → `1`, 5'in **soluna**
 - **8 > 7** → `8`, 7'nin **sağına**
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌳 Ağaç Yapısı Açıklaması
+## Ağaç Yapısı Açıklaması
 
 ```
         7
@@ -34,7 +34,7 @@
 
 ---
 
-### 📌 Açıklamalı Örnek:
+### Açıklamalı Örnek:
 
 - **Root 7’dir.**
 - Root’un solunda **5**, sağında **8** bulunur.
